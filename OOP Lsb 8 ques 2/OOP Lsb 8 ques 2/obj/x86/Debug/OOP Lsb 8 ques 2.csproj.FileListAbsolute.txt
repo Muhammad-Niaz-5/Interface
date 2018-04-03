@@ -1,0 +1,4 @@
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lsb 8 ques 2\OOP Lsb 8 ques 2\bin\Debug\OOP Lsb 8 ques 2.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lsb 8 ques 2\OOP Lsb 8 ques 2\bin\Debug\OOP Lsb 8 ques 2.pdb
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lsb 8 ques 2\OOP Lsb 8 ques 2\obj\x86\Debug\OOP Lsb 8 ques 2.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lsb 8 ques 2\OOP Lsb 8 ques 2\obj\x86\Debug\OOP Lsb 8 ques 2.pdb
